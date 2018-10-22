@@ -1,5 +1,6 @@
 //exe 03
 /*Escreva um programa que cria uma string que representa uma grade 8x8, usando novas linhas para separar os caracteres. A cada posição da grade existe ou um espaço ou um caracter “#”, de forma que estes caracteres formem um tabuleiro de xadrez.*/
+//autor maciel
 var linha='';
 var col='';
 var size_l=0;
@@ -66,3 +67,4 @@ do{
   cont02_c++;
   cont02_l=0;
 }while(cont02_c<8);
+///maciel

@@ -1,5 +1,6 @@
 /*first script js pat 1, book eloquent JS
 https://eloquentjavascript.net/*/
+//autor maciel
 //alert
 alert('hello this a alert in js JS');
 //confirm with action show console log result

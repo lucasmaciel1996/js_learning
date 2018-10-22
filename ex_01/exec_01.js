@@ -1,5 +1,6 @@
 //exec_01
 //Escreva um programa que faça 7 chamadas a console.log() para retornar o seguinte triângulo.
+//autor maciel
   var hash='#';
  for(c=1; c<=7; c++)
  {
